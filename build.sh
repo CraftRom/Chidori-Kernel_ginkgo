@@ -61,7 +61,6 @@ make	\
 	O=out \
 	ARCH=arm64 \
 	CC=clang \
-	LD=ld.lld \
 	AR=llvm-ar \
 	NM=llvm-nm \
 	STRIP=llvm-strip \
